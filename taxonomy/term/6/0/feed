@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.freerangefeedback.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>FreeRangeFeedback - features</title>
+ <link>http://www.freerangefeedback.com/taxonomy/term/6/0</link>
+ <description>Upcoming features currently in development</description>
+ <language>en</language>
+<item>
+ <title>Link user journey to feedback</title>
+ <link>http://www.freerangefeedback.com/c/link-user-journey-feedback</link>
+ <description>&lt;p style=&quot;font-style:italic&quot;&gt;I&#039;d like to know what a user clicks on before they left their feedback.  In the admin view (of a feedback session) I should be able to re-play the activity leading up to the leaving of a comment.  It would be great if I could do that across several pages in the site, though technically that&#039;s really hard.&lt;/p&gt;
+
+&lt;p&gt;We&#039;ve heard this from a couple of users, so &lt;a href=&quot;/features/attach-feedback-user-history&quot;&gt;we&amp;#039;ve added to our development queue&lt;/a&gt;.  It you&#039;d like to see this upcoming feature released sooner rather than later, please rate it in our &lt;a href=&quot;/feature-list-upcoming/1&quot;&gt;upcoming features&lt;/a&gt;.&lt;/p&gt;</description>
+ <category domain="http://www.freerangefeedback.com/taxonomy/term/6">features</category>
+ <category domain="http://www.freerangefeedback.com/taxonomy/term/1">FreeRangeFeedback</category>
+ <pubDate>Thu, 05 Jan 2012 10:12:04 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">1145 at http://www.freerangefeedback.com</guid>
+</item>
+<item>
+ <title>Attach feedback to user history</title>
+ <link>http://www.freerangefeedback.com/features/attach-feedback-user-history</link>
+ <description>&lt;ul class=&quot;bullets&quot;&gt;
+&lt;li&gt;Visually track user activity on your site&lt;/li&gt;
+&lt;li&gt;See what they did before they left their feedback&lt;/li&gt;
+&lt;li&gt;Understand users&#039; feedback in a deeper way by walking in their shoes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feedback can seem out of the blue.  Comments from unhappy customers can seem disproportionate with some sense of what happened to them that led to their complaint.  FreeRangeFeedback gives you the chance to see what got them all riled up so you can better address their feedback.&lt;/p&gt;
+</description>
+ <category domain="http://www.freerangefeedback.com/taxonomy/term/6">features</category>
+ <category domain="http://www.freerangefeedback.com/taxonomy/term/1">FreeRangeFeedback</category>
+ <pubDate>Fri, 03 Aug 2012 16:14:18 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">1505 at http://www.freerangefeedback.com</guid>
+</item>
+<item>
+ <title>Live preview of users on your site</title>
+ <link>http://www.freerangefeedback.com/features/live-preview-users-your-site</link>
+ <description>&lt;ul class=&quot;bullets&quot;&gt;
+&lt;li&gt;See how users are moving around your site as it&#039;s happening&lt;/li&gt;
+&lt;li&gt;Send them messages live&lt;/li&gt;
+&lt;li&gt;No chat window.  No &#039;paging customer service&#039;.  Just simple notes right there on the page they&#039;re looking at.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.freerangefeedback.com/features/live-preview-users-your-site&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://www.freerangefeedback.com/taxonomy/term/6">features</category>
+ <category domain="http://www.freerangefeedback.com/taxonomy/term/1">FreeRangeFeedback</category>
+ <pubDate>Fri, 03 Aug 2012 16:04:38 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">1504 at http://www.freerangefeedback.com</guid>
+</item>
+<item>
+ <title>Notifications by Skype or SMS</title>
+ <link>http://www.freerangefeedback.com/features/notifications-skype-or-sms</link>
+ <description>&lt;ul class=&quot;bullets&quot;&gt;
+&lt;li&gt;Messages sent out over low-cost instant messaging platforms&lt;/li&gt;
+&lt;li&gt;React to user feedback in seconds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sometimes email just isn&#039;t fast enough!  Our Skype messaging service will ping you a link to your users&#039; feedback right away so that you don&#039;t miss a trick.&lt;/p&gt;
+</description>
+ <category domain="http://www.freerangefeedback.com/taxonomy/term/6">features</category>
+ <category domain="http://www.freerangefeedback.com/taxonomy/term/1">FreeRangeFeedback</category>
+ <pubDate>Fri, 03 Aug 2012 16:00:06 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">1503 at http://www.freerangefeedback.com</guid>
+</item>
+<item>
+ <title>Notifications by email</title>
+ <link>http://www.freerangefeedback.com/features/notifications-email</link>
+ <description>&lt;ul class=&quot;bullets&quot;&gt;
+&lt;li&gt;Notifications sent the instant your user leaves feedback&lt;/li&gt;
+&lt;li&gt;Sent directly to you by email&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When users leave feedback, it can be very time sensitive.  Many online transactions happen instantaneously, which can lead users to expect an instant response.  If you want to respond to your users right away, to address whatever problem they&#039;re having so they can get on enjoying your web service or purchasing your products, our notifications services will help you keep right up to date.&lt;/p&gt;
+</description>
+ <category domain="http://www.freerangefeedback.com/taxonomy/term/6">features</category>
+ <category domain="http://www.freerangefeedback.com/taxonomy/term/1">FreeRangeFeedback</category>
+ <pubDate>Fri, 03 Aug 2012 15:56:15 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">1502 at http://www.freerangefeedback.com</guid>
+</item>
+</channel>
+</rss>
